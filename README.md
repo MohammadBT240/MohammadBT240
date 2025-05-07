@@ -5,7 +5,7 @@
 
 # 👋 Hi, I’m Mohammad Bashir
 
-### 🌐 Software Engineer || Full-Stack Software Engineer
+### 🌐 Software Engineer || Full-Stack Software Developer
 
 <p align="left">
   <a href="mailto:tukurmohammad8@gmail.com"><img src="https://img.shields.io/badge/Email-tukurmohammad8@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"></a> 
