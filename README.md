@@ -61,13 +61,13 @@ I’m always open to new projects, creative ideas, or opportunities to collabora
 
 ## 📊 GitHub Stats & Activity
 
-[![My GitHub stats](https://github-readme-stats-phi-one-38.vercel.app/api?username=MohammadBT240&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/MohammadBT240)
+[![My GitHub stats](https://github-readme-stats-ten-khaki-66.vercel.app/api?username=MohammadBT240&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/MohammadBT240)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadBT240&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-[![Top Languages](https://github-readme-stats-phi-one-38.vercel.app/api/top-langs?username=MohammadBT240&layout=compact&theme=tokyonight&count_private=true)](https://github.com/MohammadBT240)
+[![Top Languages](https://github-readme-stats-ten-khaki-66.vercel.app/api/top-langs?username=MohammadBT240&layout=compact&theme=tokyonight&count_private=true)](https://github.com/MohammadBT240)
 
 ---
 
