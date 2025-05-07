@@ -7,7 +7,7 @@
 
 ### 🌐 Software Engineer || Full-Stack Software Engineer
 
-<p align="center">
+<p align="left">
   <a href="mailto:tukurmohammad8@gmail.com">
     <img src="https://img.shields.io/badge/Email-tukurmohammad8@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email">
   </a>
@@ -29,25 +29,33 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 
 ## 💻 Technical Skills
 
-**Frontend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"    height="30" alt="HTML5 Logo"    /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"      height="30" alt="CSS3 Logo"     />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript Logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      height="30" alt="React Logo"    />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"      height="30" alt="Next.js Logo"  />
+**Frontend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="20" alt="HTML5 Logo" /> HTML5 •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"      height="20" alt="CSS3 Logo" /> CSS3 •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="20" alt="Tailwind CSS Logo" /> Tailwind CSS •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript Logo" /> JavaScript •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript Logo" /> TypeScript •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      height="20" alt="React Logo" /> React •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"      height="20" alt="Next.js Logo" /> Next.js
 
-**Backend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"        height="30" alt="PHP Logo"      />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"    height="30" alt="Node.js Logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"    height="30" alt="Express Logo"  />
+**Backend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"        height="20" alt="PHP Logo" /> PHP •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"    height="20" alt="Node.js Logo" /> Node.js •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"    height="20" alt="Express.js Logo" /> Express.js
 
-**Database:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      height="30" alt="MySQL Logo"    />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL Logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"    height="30" alt="MongoDB Logo"  />
+**Database:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      height="20" alt="MySQL Logo" /> MySQL •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="PostgreSQL Logo" /> PostgreSQL •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"    height="20" alt="MongoDB Logo" /> MongoDB
 
-**Testing:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg" height="30" alt="PHPUnit Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"           height="30" alt="Jest Logo"     />
+**Testing:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg"    height="20" alt="PHPUnit Logo" /> PHPUnit •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"           height="20" alt="Jest Logo" /> Jest •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg"       height="20" alt="Cypress Logo" /> Cypress
 
-**Other:** REST APIs • Microservices Architecture
+**Other:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg"         height="20" alt="REST API Logo" /> REST APIs •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microservices/microservices-original.svg" height="20" alt="Microservices Logo" /> Microservices Architecture
 
 ---
 
