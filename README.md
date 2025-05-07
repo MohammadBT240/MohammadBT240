@@ -29,13 +29,24 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 
 ## 💻 Technical Skills
 
-**Frontend:** HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js  
-**Backend:** PHP • Node.js • Express.js
-**Database:** MySQL • PostgreSQL • MongoDB
+**Frontend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"    height="30" alt="HTML5 Logo"    /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"      height="30" alt="CSS3 Logo"     />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript Logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      height="30" alt="React Logo"    />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"      height="30" alt="Next.js Logo"  />
 
-<!-- **DevOps:** Docker • CI/CD • Git • Linux   -->
+**Backend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"        height="30" alt="PHP Logo"      />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"    height="30" alt="Node.js Logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"    height="30" alt="Express Logo"  />
 
-**Testing:** PHPUnit • Jest • Cypress  
+**Database:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      height="30" alt="MySQL Logo"    />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"    height="30" alt="MongoDB Logo"  />
+
+**Testing:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg" height="30" alt="PHPUnit Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"           height="30" alt="Jest Logo"     />
+
 **Other:** REST APIs • Microservices Architecture
 
 ---
