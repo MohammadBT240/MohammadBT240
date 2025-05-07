@@ -63,7 +63,7 @@ I’m always open to new projects, creative ideas, or opportunities to collabora
 
 [![My GitHub stats](https://github-readme-stats-ten-khaki-66.vercel.app/api?username=MohammadBT240&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/MohammadBT240)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadBT240&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
