@@ -1,4 +1,4 @@
-Ω<!-- Banner (replace URL or remove if you don’t have one) -->
+<!-- Banner (replace URL or remove if you don’t have one) -->
 <!-- <p align="center">
   <img src="https://your-domain.com/banner.png" alt="Banner" width="800"/>
 </p> -->
