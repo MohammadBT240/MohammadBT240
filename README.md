@@ -29,19 +29,9 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 
 ## 💻 Technical Skills
 
-**Frontend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="20" alt="HTML5 Logo" /> HTML5 •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"      height="20" alt="CSS3 Logo" /> CSS3 •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="20" alt="Tailwind CSS Logo" /> Tailwind CSS •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript Logo" /> JavaScript •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript Logo" /> TypeScript •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      height="20" alt="React Logo" /> React •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"      height="20" alt="Next.js Logo" /> Next.js
+**Frontend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="20" alt="HTML5 Logo" /> HTML5 • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"      height="20" alt="CSS3 Logo" /> CSS3 • <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS Logo"/> Tailwind CSS • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript Logo" /> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript Logo" /> TypeScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      height="20" alt="React Logo" /> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"      height="20" alt="Next.js Logo" /> Next.js
 
-**Backend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"        height="20" alt="PHP Logo" /> PHP •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"    height="20" alt="Node.js Logo" /> Node.js •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"    height="20" alt="Express.js Logo" /> Express.js
+**Backend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"        height="20" alt="PHP Logo" /> PHP • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"    height="20" alt="Node.js Logo" /> Node.js • <img src="https://cdn.simpleicons.org/express/D32F2F" height="30" alt="Express.js Logo"/> Express.js
 
 **Database:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      height="20" alt="MySQL Logo" /> MySQL •  
@@ -49,13 +39,8 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"    height="20" alt="MongoDB Logo" /> MongoDB
 
 **Testing:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpunit/phpunit-original.svg"    height="20" alt="PHPUnit Logo" /> PHPUnit •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"           height="20" alt="Jest Logo" /> Jest •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg"       height="20" alt="Cypress Logo" /> Cypress
-
-**Other:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg"         height="20" alt="REST API Logo" /> REST APIs •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microservices/microservices-original.svg" height="20" alt="Microservices Logo" /> Microservices Architecture
+<img src="https://cdn.simpleicons.org/phpunit/FFFFFF" height="30" alt="PHPUnit Logo"/> PHPUnit •  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"           height="20" alt="Jest Logo" /> Jest •
 
 ---
 
