@@ -63,7 +63,7 @@ I’m always open to new projects, creative ideas, or opportunities to collabora
 
 [![My GitHub stats](https://github-readme-stats-ten-khaki-66.vercel.app/api?username=MohammadBT240&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/MohammadBT240)
 
-[![GitHub Streak](https://github-readme-stats-ten-khaki-66.vercel.app/?user=MohammadBT240&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://your-stats-domain.vercel.app/api/streak?user=MohammadBT240&theme=tokyonight&hide_border=true)](https://github.com/MohammadBT240)
 
 [![Top Languages](https://github-readme-stats-ten-khaki-66.vercel.app/api/top-langs?username=MohammadBT240&layout=compact&theme=tokyonight&count_private=true)](https://github.com/MohammadBT240)
 
