@@ -1,17 +1,17 @@
 <!-- Banner (replace URL or remove if you don’t have one) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://your-domain.com/banner.png" alt="Banner" width="800"/>
-</p>
+</p> -->
 
-# 👋 Hi, I’m Mohammad Bashir Tukur
+# 👋 Hi, I’m Mohammad Bashir
 
-### 🌐 Full-Stack Software Engineer | Laravel & React Enthusiast
+### 🌐 Software Engineer || Full-Stack Software Engineer
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat-square&logo=gmail" alt="Email">
+  <a href="mailto:tukurmohammad8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tukurmohammad8@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-handle">
+  <a href="https://www.linkedin.com/in/mohammad-bashir-7545a3212/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/MohammadBT240">
@@ -30,11 +30,13 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 ## 💻 Technical Skills
 
 **Frontend:** HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript • React • Next.js  
-**Backend:** PHP • Laravel • Node.js • Express.js • Python (Django, FastAPI)  
-**Database:** MySQL • PostgreSQL • MongoDB • Redis  
-**DevOps:** Docker • CI/CD • Git • Linux  
+**Backend:** PHP • Node.js • Express.js
+**Database:** MySQL • PostgreSQL • MongoDB
+
+<!-- **DevOps:** Docker • CI/CD • Git • Linux   -->
+
 **Testing:** PHPUnit • Jest • Cypress  
-**Other:** REST APIs • GraphQL • Microservices Architecture
+**Other:** REST APIs • Microservices Architecture
 
 ---
 
@@ -58,9 +60,9 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 
 I’m always open to new projects, creative ideas, or opportunities to collaborate.
 
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- ✉️ Email: [tukurmohammad8@gmail.com](mailto:tukurmohammad8@gmail.com)
+- 💼 LinkedIn: [Mohammad Bashir](https://www.linkedin.com/in/mohammad-bashir-7545a3212/)
+<!-- - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) -->
 
 ---
 
