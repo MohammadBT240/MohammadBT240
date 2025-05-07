@@ -29,18 +29,25 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 
 ## 💻 Technical Skills
 
-**Frontend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="20" alt="HTML5 Logo" /> HTML5 • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"      height="20" alt="CSS3 Logo" /> CSS3 • <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS Logo"/> Tailwind CSS • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript Logo" /> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript Logo" /> TypeScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      height="20" alt="React Logo" /> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"      height="20" alt="Next.js Logo" /> Next.js
+**Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
-**Backend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"        height="20" alt="PHP Logo" /> PHP • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"    height="20" alt="Node.js Logo" /> Node.js • <img src="https://cdn.simpleicons.org/express/D32F2F" height="30" alt="Express.js Logo"/> Express.js
+**Backend:** ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
-**Database:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      height="20" alt="MySQL Logo" /> MySQL •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="PostgreSQL Logo" /> PostgreSQL •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"    height="20" alt="MongoDB Logo" /> MongoDB
+**Database:** ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Testing:**  
-<img src="https://cdn.simpleicons.org/phpunit/FFFFFF" height="30" alt="PHPUnit Logo"/> PHPUnit •  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"           height="20" alt="Jest Logo" /> Jest •
+**Testing:** ![PHPUnit](https://img.shields.io/badge/PHPUnit-%23CB3837.svg?style=for-the-badge&logo=phpunit&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 ---
 
