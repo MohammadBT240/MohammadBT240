@@ -1,4 +1,4 @@
-<!-- Banner (replace URL or remove if you don’t have one) -->
+Ω<!-- Banner (replace URL or remove if you don’t have one) -->
 <!-- <p align="center">
   <img src="https://your-domain.com/banner.png" alt="Banner" width="800"/>
 </p> -->
@@ -63,7 +63,7 @@ I’m always open to new projects, creative ideas, or opportunities to collabora
 
 [![My GitHub stats](https://github-readme-stats-ten-khaki-66.vercel.app/api?username=MohammadBT240&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/MohammadBT240)
 
-[![GitHub Streak](https://your-stats-domain.vercel.app/api/streak?user=MohammadBT240&theme=tokyonight&hide_border=true)](https://github.com/MohammadBT240)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohammadBT240&theme=tokyonight)](https://github.com/MohammadBT240)
 
 [![Top Languages](https://github-readme-stats-ten-khaki-66.vercel.app/api/top-langs?username=MohammadBT240&layout=compact&theme=tokyonight&count_private=true)](https://github.com/MohammadBT240)
 
