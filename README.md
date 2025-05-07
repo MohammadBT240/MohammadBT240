@@ -8,13 +8,9 @@
 ### 🌐 Software Engineer || Full-Stack Software Engineer
 
 <p align="left">
-  <a href="mailto:tukurmohammad8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tukurmohammad8@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email">
-  </a> <a href="https://www.linkedin.com/in/mohammad-bashir-7545a3212/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a> <a href="https://github.com/MohammadBT240">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
+  <a href="mailto:tukurmohammad8@gmail.com"><img src="https://img.shields.io/badge/Email-tukurmohammad8@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"></a> 
+  <a href="https://www.linkedin.com/in/mohammad-bashir-7545a3212/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a> 
+  <a href="https://github.com/MohammadBT240"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
 ---
