@@ -5,7 +5,7 @@
 
 # 👋 Hi, I’m Mohammad Bashir
 
-### 🌐 Software Engineer || Full-Stack Software Developer
+### Software Engineer || Full-Stack Software Developer
 
 <p align="left">
   <a href="mailto:tukurmohammad8@gmail.com"><img src="https://img.shields.io/badge/Email-tukurmohammad8@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"></a> 
@@ -15,17 +15,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a passionate Full-Stack Engineer with expertise in building scalable, user-friendly web applications. From enterprise document-management systems in Laravel to multi-tenant React/Node platforms, I craft solutions that drive efficiency and growth.
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
-**Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+**Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Backend:** ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+**Backend:** ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 **Database:** ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -33,7 +33,7 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 
 ---
 
-## 🛠 Current Focus
+## Current Focus
 
 - Designing and optimizing approval workflows for EDMS projects
 - Building subdomain-based multi-tenant SaaS with React & Node
@@ -42,14 +42,14 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 
 ---
 
-## 🎓 Education
+## Education
 
 - **B.Sc. in Software Engineering**  
   Al-Hikmah University, Ilorin, Nigeria
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 I’m always open to new projects, creative ideas, or opportunities to collaborate.
 
