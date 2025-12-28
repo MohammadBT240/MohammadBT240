@@ -33,12 +33,17 @@ I’m a passionate Full-Stack Engineer with expertise in building scalable, user
 
 ---
 
-## Current Focus
+## Current Focus: Scaling for Excellence
 
-- Designing and optimizing approval workflows for EDMS projects
-- Building subdomain-based multi-tenant SaaS with React & Node
-- Exploring AI/ML integrations in web applications
-- Contributing to open-source and mentoring peers
+I am currently pivoting toward Infrastructure Engineering and the science of high-availability systems. My work focuses on bridging the gap between clean code and robust operations.
+
+**Cloud Architecture:** Deepening expertise in AWS ecosystems to design fault-tolerant, distributed systems.
+
+**DevOps Culture:** Automating the lifecycle through CI/CD optimization and Infrastructure as Code (IaC).
+
+**System Design:** Mastering scalable patterns to handle high-concurrency and complex data flows.
+
+**The AI Frontier:** Researching the seamless integration of LLMs and machine learning models into production-ready web applications.
 
 ---
 
